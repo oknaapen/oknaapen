@@ -10,10 +10,12 @@ After completing basic courses through the SoloLearn and Mimo apps, I obtained m
 Currently, I am participating in a 100-day course where I am learning new topics to fully leverage Python's capabilities.
 Alongside this education, I am ready to take on challenging projects. I would be happy to discuss potential opportunities with you.
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on data analysis dashboard using Python and Streamlit.
 - 🌱 I’m currently learning a 100-days bootcamp Course
 - 👯 I’m looking for new projects to expand my skills and knowledge from Python. 
 - 📫 How to reach me: https://www.linkedin.com/in/olivier-knaapen
+
+Voor een indruk verwijs ik u graag door naar mijn Portfolio van al mijn oefeningen.
+  
+For an impression, I kindly refer you to my portfolio showcasing all my exercises.
+
